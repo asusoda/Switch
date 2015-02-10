@@ -12,6 +12,6 @@ The project was a collaborative effort done by several of the members of ASU's S
 Special Thanks To:
 	-SoDA for sponsoring the project
 	-Yoyo Games for making Game Maker 8.1
+	-99Sounds for the rain sound efect
 	-RhysAndrews for making the Game Cave Effects Engine
 	-Zack from GameJolt for his Narration Code help
-	-Game Maker Community for tidbits of code and help with particle systems
